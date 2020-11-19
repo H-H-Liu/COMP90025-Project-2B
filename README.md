@@ -1,4 +1,8 @@
 # COMP90025-Project-2B
+
+Readme is WIP!
+
+
 Sequence Alignment with MPI and Open MP
 
 What is sequence Alignment? 
